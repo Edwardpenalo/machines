@@ -17,6 +17,7 @@ encontramos el programa y es "BonitaSoft"
 
 entonces nos encontramos con cve":["CVE_2022_25237"]}},
 
-"¿Qué cadena se añadió a la ruta URL de la API para evitar el filtro de autorización mediante el exploit del atacante?" Volvemos a nuestro 
+"¿Qué cadena se añadió a la ruta URL de la API para evitar el filtro de autorización mediante el exploit del atacante?" Volvemos a revisar el trafico y filtramos por http (haciendo referencia a solicitudes web) y vemos que se hizo un cambio en la ruta
 
 ![image](https://github.com/user-attachments/assets/d7648a36-fa0f-4a96-968b-ca3a1059f735)
+
