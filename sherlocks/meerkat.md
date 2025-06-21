@@ -24,7 +24,16 @@ entonces nos encontramos con cve":["CVE_2022_25237"]}},
 Con ese mismo filtro de http, vemos que hay muchas solicitudes de inicio de sesion y queremos saber luego de cuantos intentos lograron acceder
 ![image](https://github.com/user-attachments/assets/259efeb3-973b-4780-b4d2-6fbea61a6520)
 
-Tenemos que cambiar el formato de la colummna para ver los nombres de usuarios nos vamos a 
+Tenemos que cambiar el formato de la colummna para ver los nombres de usuarios, damos click derecho al nombre del usuario y le damos aplicar como colummna
 ![image](https://github.com/user-attachments/assets/54c375e5-3482-4f1f-94b2-36e8bd1641d3)
+esto realmente fue un poco dificil para mi, tuve que voler al terminar el modulo analisis de trafico de red, recurso adicional "https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/"
 
-esto realmente fue un poco dificil para mi, tuve que voler al terminar el modulo analisis de trafico de red 
+La siguiente pregunta es "¿Qué combinación de nombre de usuario y contraseña fue exitosa?"
+![image](https://github.com/user-attachments/assets/1ca492b2-3c92-49e6-9d07-341c73997026)
+Como ya tenemos el filtro de usuarios se nos hace mas facil encontrar nuevas pistas
+
+Nos preguntan " Si hay alguno, ¿qué sitio para compartir texto utilizó el atacante?" filtramos solo por http y encontramos una solictud web 
+![image](https://github.com/user-attachments/assets/cf06b693-8414-494e-b375-ee397c70026b)
+
+
+
