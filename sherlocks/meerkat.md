@@ -23,3 +23,8 @@ entonces nos encontramos con cve":["CVE_2022_25237"]}},
 
 Con ese mismo filtro de http, vemos que hay muchas solicitudes de inicio de sesion y queremos saber luego de cuantos intentos lograron acceder
 ![image](https://github.com/user-attachments/assets/259efeb3-973b-4780-b4d2-6fbea61a6520)
+
+Tenemos que cambiar el formato de la colummna para ver los nombres de usuarios nos vamos a 
+![image](https://github.com/user-attachments/assets/54c375e5-3482-4f1f-94b2-36e8bd1641d3)
+
+esto realmente fue un poco dificil para mi, tuve que voler al terminar el modulo analisis de trafico de red 
