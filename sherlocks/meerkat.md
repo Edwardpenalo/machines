@@ -35,6 +35,10 @@ Como ya tenemos el filtro de usuarios se nos hace mas facil encontrar nuevas pis
 Nos preguntan " Si hay alguno, ¿qué sitio para compartir texto utilizó el atacante?" filtramos solo por http y encontramos una solictud web 
 ![image](https://github.com/user-attachments/assets/cf06b693-8414-494e-b375-ee397c70026b)
 
+la siguiente pregunta se relaciona un poco con la anterior ya que accedemos a ella atraves del la flag anterior "Proporcione el nombre de archivo de la clave pública utilizada por el atacante para obtener persistencia en nuestro host."
+![image](https://github.com/user-attachments/assets/49ed7809-e337-499d-ac85-d408ebb0656b)
+![image](https://github.com/user-attachments/assets/4a1ce822-a6f3-4661-9342-e72cdb577b53)
+
 
 
 
