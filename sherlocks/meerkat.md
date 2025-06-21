@@ -12,3 +12,7 @@ encontramos el programa y es "BonitaSoft"
 "Creemos que el atacante puede haber utilizado un subconjunto de la categoría de ataque de fuerza bruta: ¿cómo se llama el ataque realizado?" Credential Stuffing,Porque creo esto? porque en nuestros trafico vemos multiples intentos de inicio de sesion a diferentes puertos y muchas conexiones fallidas
 ![image](https://github.com/user-attachments/assets/b68aef03-ce0d-4a98-a198-9b1e0fc8f469)
 
+"¿La vulnerabilidad explotada tiene un CVE asignado? Y si es así, ¿cuál?" En el mismo json nuevamente buscamoS
+![image](https://github.com/user-attachments/assets/e6076f4f-092e-46d0-8114-4cf65944c580)
+entonces nos encontramos con cve":["CVE_2022_25237"]}},
+
