@@ -21,3 +21,5 @@ entonces nos encontramos con cve":["CVE_2022_25237"]}},
 
 ![image](https://github.com/user-attachments/assets/d7648a36-fa0f-4a96-968b-ca3a1059f735)
 
+Con ese mismo filtro de http, vemos que hay muchas solicitudes de inicio de sesion y queremos saber luego de cuantos intentos lograron acceder
+![image](https://github.com/user-attachments/assets/259efeb3-973b-4780-b4d2-6fbea61a6520)
