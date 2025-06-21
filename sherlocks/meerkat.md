@@ -9,4 +9,6 @@ La primera pregunta que se nos hace es "Creemos que nuestro servidor de la Plata
 ![image](https://github.com/user-attachments/assets/611b2636-9657-4cfa-ad34-6a4d99da070d)
 encontramos el programa y es "BonitaSoft"
 
+"Creemos que el atacante puede haber utilizado un subconjunto de la categoría de ataque de fuerza bruta: ¿cómo se llama el ataque realizado?" Credential Stuffing,Porque creo esto? porque en nuestros trafico vemos multiples intentos de inicio de sesion a diferentes puertos y muchas conexiones fallidas
+![image](https://github.com/user-attachments/assets/b68aef03-ce0d-4a98-a198-9b1e0fc8f469)
 
