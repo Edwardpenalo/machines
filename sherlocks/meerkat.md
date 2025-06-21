@@ -14,5 +14,9 @@ encontramos el programa y es "BonitaSoft"
 
 "¿La vulnerabilidad explotada tiene un CVE asignado? Y si es así, ¿cuál?" En el mismo json nuevamente buscamoS
 ![image](https://github.com/user-attachments/assets/e6076f4f-092e-46d0-8114-4cf65944c580)
+
 entonces nos encontramos con cve":["CVE_2022_25237"]}},
 
+"¿Qué cadena se añadió a la ruta URL de la API para evitar el filtro de autorización mediante el exploit del atacante?" Volvemos a nuestro 
+
+![image](https://github.com/user-attachments/assets/d7648a36-fa0f-4a96-968b-ca3a1059f735)
