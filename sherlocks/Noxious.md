@@ -16,3 +16,6 @@ con el siguiente filtro encontramos la respuesta
 Nos preguntan "En el tráfico NTLM, podemos ver que las credenciales de la víctima se retransmitieron varias veces a la máquina del atacante. ¿Cuándo se capturaron los hashes por primera vez?" filtramos por smb protocolo para compartir recursos
 ![image](https://github.com/user-attachments/assets/3ffdde90-8c3e-4e23-b96c-dc6fcb33219f)
 
+"En el tráfico NTLM, podemos ver que las credenciales de la víctima se retransmitieron varias veces a la máquina del atacante. ¿Cuándo se capturaron los hashes por primera vez?"
+![image](https://github.com/user-attachments/assets/217c1ee9-b3e3-4acb-af21-ff3a6a0a0f65)
+
