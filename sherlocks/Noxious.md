@@ -1,4 +1,4 @@
-Buenasss
+![image](https://github.com/user-attachments/assets/d0f0011c-efd0-4f9b-aaa8-36f6f399bb05)Buenasss
 ![image](https://github.com/user-attachments/assets/278b7e42-fded-4759-8206-7f9671247b28)
 El dispositivo IDS nos alertó sobre un posible dispositivo no autorizado en la red interna de Active Directory. El Sistema de Detección de Intrusiones (IDS) también indicó indicios de tráfico LLMNR, lo cual es inusual. Se sospecha que se produjo un ataque de envenenamiento de LLMNR. El tráfico LLMNR se dirigió a Forela-WKstn002, cuya dirección IP es 172.17.79.136. Nuestro experto en análisis forense de redes le proporciona una captura de paquetes limitada del tiempo circundante. Dado que esto ocurrió en la VLAN de Active Directory, le sugerimos que realicemos una búsqueda de amenazas de red teniendo en cuenta el vector de ataque de Active Directory, centrándonos específicamente en el envenenamiento de LLMNR.
 
@@ -19,3 +19,5 @@ Nos preguntan "En el tráfico NTLM, podemos ver que las credenciales de la víct
 "En el tráfico NTLM, podemos ver que las credenciales de la víctima se retransmitieron varias veces a la máquina del atacante. ¿Cuándo se capturaron los hashes por primera vez?"
 ![image](https://github.com/user-attachments/assets/217c1ee9-b3e3-4acb-af21-ff3a6a0a0f65)
 
+El error tipografico que cometio el usuario DCC01 y lo correcto o como deberia ser es DC01
+![image](https://github.com/user-attachments/assets/770904bd-6315-4f76-806b-81cc079e63b4)
