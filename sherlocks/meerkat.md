@@ -41,6 +41,7 @@ la siguiente pregunta se relaciona un poco con la anterior ya que accedemos a el
 
 ![image](https://github.com/user-attachments/assets/49ed7809-e337-499d-ac85-d408ebb0656b)
 ![image](https://github.com/user-attachments/assets/4a1ce822-a6f3-4661-9342-e72cdb577b53)
+
 Ejecutar el comando que nos pide y en la url esta la flag
 
 ![image](https://github.com/user-attachments/assets/06a590f2-9fa7-48de-8681-e1b18154d454)
@@ -50,7 +51,8 @@ La tecnica del marco MITRE en el apartado de Remote Services: SSH (simplemente b
 
 ![image](https://github.com/user-attachments/assets/09aa53c1-bc20-48d3-b9aa-6db8102e2a25)
 
-
+RECOMENDACIONES
+deshabilitar autenticación por clave en SSH, revisar registros de acceso y realizar análisis forense del servidor afectado
 
 
 
