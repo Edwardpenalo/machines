@@ -32,3 +32,5 @@ Esto lo encontre con el filtro smb y rebusque en la informacion de SMB fui proba
 
 "Para comprobar la complejidad de la contraseña, intente recuperarla a partir de la información obtenida en la captura de paquetes. Este paso es crucial, ya que nos permite determinar si el atacante logró descifrarla y con qué rapidez."
 
+![image](https://github.com/user-attachments/assets/9570edfd-6993-453b-9209-7efaf93b6660)
+Aqui busque empece a relaizar lo que indica la pista
