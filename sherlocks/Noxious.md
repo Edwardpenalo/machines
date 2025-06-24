@@ -38,7 +38,7 @@ Aqui busque empece a relaizar lo que indica la pista "Cree un nuevo archivo e in
 Vamos a ir recogiendo informacion hasta que tengamos el archivo listo para usarlo con hashcat
 ![image](https://github.com/user-attachments/assets/f1b7aa36-d28d-4b92-8c00-90e85e69d1bd)
 
- .\hashcat.exe -a 0 -m 5600 contra.txt rockyou.txt este fue el comando que use
+ .\hashcat.exe -a 0 -m 5600 dua.txt rockyou.txt este fue el comando que use
  
 "Solo para obtener más contexto sobre el incidente, ¿cuál es el recurso compartido de archivos al que la víctima estaba intentando acceder?" simplmente filtre por smb2 y delizando la encontre
 ![image](https://github.com/user-attachments/assets/b4be9107-9b3b-42b7-8e73-34db71fcb4de)
