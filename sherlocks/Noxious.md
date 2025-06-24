@@ -33,4 +33,5 @@ Esto lo encontre con el filtro smb y rebusque en la informacion de SMB fui proba
 "Para comprobar la complejidad de la contraseña, intente recuperarla a partir de la información obtenida en la captura de paquetes. Este paso es crucial, ya que nos permite determinar si el atacante logró descifrarla y con qué rapidez."
 
 ![image](https://github.com/user-attachments/assets/9570edfd-6993-453b-9209-7efaf93b6660)
-Aqui busque empece a relaizar lo que indica la pista
+Aqui busque empece a relaizar lo que indica la pista "Cree un nuevo archivo e introduzca los valores de la siguiente manera: Usuario::Dominio:ServerChallenge:NTProofStr:NTLMv2Response (sin los primeros 16 bytes). El valor de la respuesta NTLMv2 se puede obtener de donde obtuvimos NTProofStr. Elimine los primeros 16 bytes (32 caracteres) del valor. Luego, descifre el hash con hashcat. La sintaxis de Hashcat es la siguiente: Hashcat -a0 -m5600 hashfile.txt rockyouwordlist.txt"
+
