@@ -35,3 +35,12 @@ Esto lo encontre con el filtro smb y rebusque en la informacion de SMB fui proba
 ![image](https://github.com/user-attachments/assets/9570edfd-6993-453b-9209-7efaf93b6660)
 Aqui busque empece a relaizar lo que indica la pista "Cree un nuevo archivo e introduzca los valores de la siguiente manera: Usuario::Dominio:ServerChallenge:NTProofStr:NTLMv2Response (sin los primeros 16 bytes). El valor de la respuesta NTLMv2 se puede obtener de donde obtuvimos NTProofStr. Elimine los primeros 16 bytes (32 caracteres) del valor. Luego, descifre el hash con hashcat. La sintaxis de Hashcat es la siguiente: Hashcat -a0 -m5600 hashfile.txt rockyouwordlist.txt"
 
+Vamos a ir recogiendo informacion hasta que tengamos el archivo listo para usarlo con hashcat
+![image](https://github.com/user-attachments/assets/f1b7aa36-d28d-4b92-8c00-90e85e69d1bd)
+
+ .\hashcat.exe -a 0 -m 5600 contra.txt rockyou.txt este fue el comando que use
+ 
+"Solo para obtener más contexto sobre el incidente, ¿cuál es el recurso compartido de archivos al que la víctima estaba intentando acceder?" simplmente filtre por smb2 y delizando la encontre
+![image](https://github.com/user-attachments/assets/b4be9107-9b3b-42b7-8e73-34db71fcb4de)
+
+![image](https://github.com/user-attachments/assets/efcb583d-e521-4dd6-b990-3c8c386ca598)
