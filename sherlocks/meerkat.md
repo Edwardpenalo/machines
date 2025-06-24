@@ -47,7 +47,7 @@ Ejecutar el comando que nos pide y en la url esta la flag
 ![image](https://github.com/user-attachments/assets/06a590f2-9fa7-48de-8681-e1b18154d454)
 Cual fue el archivo modificado, simple 
 
-La tecnica del marco MITRE en el apartado de Remote Services: SSH (simplemente busque SSH Authorized Keys Mitre y me dio toda la informacion https://attack.cloudfall.cn/techniques/T1098/004/)
+La tecnica del marco MITRE en el apartado de Remote Services: SSH https://attack.cloudfall.cn/techniques/T1098/004/)
 
 ![image](https://github.com/user-attachments/assets/09aa53c1-bc20-48d3-b9aa-6db8102e2a25)
 
