@@ -21,3 +21,8 @@ Nos preguntan "En el tráfico NTLM, podemos ver que las credenciales de la víct
 
 El error tipografico que cometio el usuario DCC01 y lo correcto o como deberia ser es DC01
 ![image](https://github.com/user-attachments/assets/770904bd-6315-4f76-806b-81cc079e63b4)
+
+Para obtener las credenciales reales del usuario víctima, necesitamos combinar varios valores de los paquetes de negociación NTLM. ¿Cuál es el valor de desafío del servidor NTLM?
+![image](https://github.com/user-attachments/assets/0d41dfe3-90b7-4033-808d-e3f480e35d52)
+Esto lo encontre con el filtro smb y rebusque en la informacion de SMB fui probando respuestas
+
