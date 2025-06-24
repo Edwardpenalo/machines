@@ -22,7 +22,13 @@ Nos preguntan "En el tráfico NTLM, podemos ver que las credenciales de la víct
 El error tipografico que cometio el usuario DCC01 y lo correcto o como deberia ser es DC01
 ![image](https://github.com/user-attachments/assets/770904bd-6315-4f76-806b-81cc079e63b4)
 
-Para obtener las credenciales reales del usuario víctima, necesitamos combinar varios valores de los paquetes de negociación NTLM. ¿Cuál es el valor de desafío del servidor NTLM?
+"Para obtener las credenciales reales del usuario víctima, necesitamos combinar varios valores de los paquetes de negociación NTLM. ¿Cuál es el valor de desafío del servidor NTLM?"
 ![image](https://github.com/user-attachments/assets/0d41dfe3-90b7-4033-808d-e3f480e35d52)
+
 Esto lo encontre con el filtro smb y rebusque en la informacion de SMB fui probando respuestas
+
+"Ahora, haciendo algo similar, busque el valor de NTProofStr." fue casi lo mismo y busque exactamente el nombre en los paquetes
+![image](https://github.com/user-attachments/assets/70c466b8-de85-4b9b-bc4e-2d47560dc4d7)
+
+"Para comprobar la complejidad de la contraseña, intente recuperarla a partir de la información obtenida en la captura de paquetes. Este paso es crucial, ya que nos permite determinar si el atacante logró descifrarla y con qué rapidez."
 
