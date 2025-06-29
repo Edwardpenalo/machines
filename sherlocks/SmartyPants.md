@@ -9,4 +9,10 @@ Empezamos esta maquina con la siguiente instruccion "El atacante inició sesión
 Recomiendo utilizar sysmon para revisar enventos, filtramos por el id de evento correspondiente a inicios de sesion por RDP y en la vista xml logramos ver la respuesta
 
 Nos preguntan "El atacante descargó algunas utilidades que le ayudaron en su operación de sabotaje y extorsión. ¿Cuál fue la primera herramienta que descargó e instaló?" revisamos logs de smartscreen para encontrar esto
-![image](https://github.com/user-attachments/assets/ccad6a59-7682-4804-b7de-682a069ea575)
+![image](https://github.com/user-attachments/assets/149657c0-6a19-4aa5-9a64-0c2ffc05ae61)
+
+Las siguiente pregunta es "Luego, descargaron y ejecutaron la versión portátil de una herramienta que permitía buscar archivos en el equipo de forma rápida y eficiente. ¿Cuál era la ruta completa del ejecutable?"
+en descargas nuevamente vemos un ejecutable que segun investigamos es Everything.exe y sirve para " aplicación de búsqueda fácil de usar que le ayuda a encontrar cualquier archivo o carpeta almacenada en su computadora de Windows"
+
+![image](https://github.com/user-attachments/assets/9d990509-caa3-4122-85b6-d2cdf9c3f592)
+
