@@ -24,3 +24,8 @@ En la vista XML encontraremos la hora de ejecucion de esta herramienta
 
 "Encuentra también el nombre y la ruta del segundo documento robado." ya sabemos que el atacante estuvo en la ruta "C:\\Users\\Dutch\\Documents\\2025- Board of directors Documents\" intuimos que si esta en un directorio sensible con multiples datos seguira tomando del mismo y encontramos este
 ![image](https://github.com/user-attachments/assets/0bea74b7-55d9-4d43-9adc-c3db9295a349)
+
+"El atacante también instaló una utilidad en la nube para robar y exfiltrar los documentos. ¿Cómo se llama esta utilidad?" en el momento que nos indican exfiltracion y la nube, ya tenemos como objetivo identificar tecnologias mencionada y mega es una de estas que encontramos 
+
+![image](https://github.com/user-attachments/assets/35c58d2c-3130-48e8-a27a-c7e8c13d5024)
+
