@@ -16,3 +16,11 @@ en descargas nuevamente vemos un ejecutable que segun investigamos es Everything
 
 ![image](https://github.com/user-attachments/assets/9d990509-caa3-4122-85b6-d2cdf9c3f592)
 
+En la vista XML encontraremos la hora de ejecucion de esta herramienta
+![image](https://github.com/user-attachments/assets/793b740e-3a84-41ad-8d6e-c47c011d48bf)
+
+"La utilidad se utilizó para buscar documentos críticos y confidenciales almacenados en el host, que el atacante podría robar y extorsionar a la víctima. ¿Cuál fue el primer documento que el atacante obtuvo y violó su confidencialidad?" Correlacionando eventos, utiliza herramientas para busqueda de archivos, por lo que imagino que sera un documento sensible y encuentro este envento
+![image](https://github.com/user-attachments/assets/fdcbd130-dd67-4545-881a-9e917a38a8af)
+
+"Encuentra también el nombre y la ruta del segundo documento robado." ya sabemos que el atacante estuvo en la ruta "C:\\Users\\Dutch\\Documents\\2025- Board of directors Documents\" intuimos que si esta en un directorio sensible con multiples datos seguira tomando del mismo y encontramos este
+![image](https://github.com/user-attachments/assets/0bea74b7-55d9-4d43-9adc-c3db9295a349)
