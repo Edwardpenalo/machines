@@ -29,3 +29,15 @@ En la vista XML encontraremos la hora de ejecucion de esta herramienta
 
 ![image](https://github.com/user-attachments/assets/35c58d2c-3130-48e8-a27a-c7e8c13d5024)
 
+"¿Cuando se ejecutó esta utilidad?" en la vista XML encontramos la misma
+![image](https://github.com/user-attachments/assets/3169a130-e010-4074-bf7c-847c1635c29a)
+
+"El atacante también destruyó los datos del host, haciéndolos irrecuperables. ¿Qué herramienta se utilizó para lograrlo?" en los registros encontramos varias herramientas y nos detenmos a investigar para que sirven cada una de estas,vemos que esta sirve para " "
+![image](https://github.com/user-attachments/assets/0ad9c21e-a985-41ba-a08e-12ead6ba539b)
+
+"El atacante borró dos registros importantes, creyendo haber borrado todas sus huellas. ¿Cuándo se borró el registro de seguridad?" Nos dirigimos a los eventos de seguridad y buscamos por le id correspondiente que es el 1102, en el marco mitre es  T1070 https://attack.mitre.org/techniques/T1070/001/
+![image](https://github.com/user-attachments/assets/c511ba17-2b0f-4dca-9a36-40f84d6086a0)
+
+![image](https://github.com/user-attachments/assets/ba5d7682-af2c-43b8-ae52-6ee0963469bb)
+
+
