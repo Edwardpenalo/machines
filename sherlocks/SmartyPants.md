@@ -6,7 +6,7 @@ El director de tecnología de Forela, Dutch, almacena archivos importantes en un
 Empezamos esta maquina con la siguiente instruccion "El atacante inició sesión en la máquina donde Dutch guarda archivos críticos, a través de RDP, el 24 de enero de 2025. Determine la marca de tiempo de este inicio de sesión."
 ![image](https://github.com/user-attachments/assets/a5eb2ba8-9a16-48ca-b8d8-26b0ada13056)
 
-Recomiendo utilizar sysmon para revisar enventos, filtramos por el id de evento correspondiente a inicios de sesion por RDP y en la vista xml logramos ver la respuesta
+Recomiendo utilizar sysmon para revisar eventos, filtramos por el id de evento correspondiente a inicios de sesion por RDP y en la vista xml logramos ver la respuesta
 
 Nos preguntan "El atacante descargó algunas utilidades que le ayudaron en su operación de sabotaje y extorsión. ¿Cuál fue la primera herramienta que descargó e instaló?" revisamos logs de smartscreen para encontrar esto
 ![image](https://github.com/user-attachments/assets/149657c0-6a19-4aa5-9a64-0c2ffc05ae61)
@@ -32,7 +32,7 @@ En la vista XML encontraremos la hora de ejecucion de esta herramienta
 "¿Cuando se ejecutó esta utilidad?" en la vista XML encontramos la misma
 ![image](https://github.com/user-attachments/assets/3169a130-e010-4074-bf7c-847c1635c29a)
 
-"El atacante también destruyó los datos del host, haciéndolos irrecuperables. ¿Qué herramienta se utilizó para lograrlo?" en los registros encontramos varias herramientas y nos detenmos a investigar para que sirven cada una de estas,vemos que esta sirve para " "
+"El atacante también destruyó los datos del host, haciéndolos irrecuperables. ¿Qué herramienta se utilizó para lograrlo?" en los registros encontramos varias herramientas y nos detenmos a investigar para que sirven cada una de estas,vemos que esta sirve para " File Shredder, o destructor de archivos, es un software que permite eliminar archivos de forma segura y permanente, haciéndolos irrecuperables"
 ![image](https://github.com/user-attachments/assets/0ad9c21e-a985-41ba-a08e-12ead6ba539b)
 
 "El atacante borró dos registros importantes, creyendo haber borrado todas sus huellas. ¿Cuándo se borró el registro de seguridad?" Nos dirigimos a los eventos de seguridad y buscamos por le id correspondiente que es el 1102, en el marco mitre es  T1070 https://attack.mitre.org/techniques/T1070/001/
@@ -41,4 +41,17 @@ En la vista XML encontraremos la hora de ejecucion de esta herramienta
 ![image](https://github.com/user-attachments/assets/ba5d7682-af2c-43b8-ae52-6ee0963469bb)
 
 RECOMENDACIONES 
-Si es un puesto direcctivo es obvio tendra archivos sensibles recomiento introduccir claves a dichos documentos pero personalmente si no es personal de TI no tiene que tener ciertos privilegios en este ataque se hicieron de el por RDP creo que esto se podria haber evitado estableciendo una ACL nada que no este en mi rango puede conectarse, politicas de firewall para el eacceso a los sitios donde descargo herramientas, basicamente dejar los sitios visitados correctamente y limitar el trafico fuea de esos o los necesarios para laborar dia a dia, politicas de ejecucion no son programas comunes los que esta ejecutando deberia bloquearlo
+
+Dado que se trata de un puesto directivo, es evidente que el usuario accede a información sensible. Por ello, recomendamos las siguientes acciones:
+
+Cifrado de documentos confidenciales. Archivos sensibles deberían estar protegidos con contraseña o mecanismos de cifrado.
+
+Segmentación de privilegios. Los usuarios que no pertenecen al equipo técnico no deben contar con privilegios administrativos.
+
+Restricción de acceso RDP. Se recomienda aplicar listas de control de acceso (ACL) y políticas de firewall que restrinjan el acceso remoto solo a direcciones IP autorizadas.
+
+Control de tráfico de red. Limitar la navegación a dominios autorizados mediante listas blancas o proxy.
+
+Política de ejecución estricta. Se debe bloquear la ejecución de herramientas no aprobadas mediante AppLocker o Software Restriction Policies.
+
+Estas medidas habrían reducido significativamente la superficie de ataque utilizada por el i
