@@ -40,4 +40,5 @@ En la vista XML encontraremos la hora de ejecucion de esta herramienta
 
 ![image](https://github.com/user-attachments/assets/ba5d7682-af2c-43b8-ae52-6ee0963469bb)
 
-
+RECOMENDACIONES 
+Si es un puesto direcctivo es obvio tendra archivos sensibles recomiento introduccir claves a dichos documentos pero personalmente si no es personal de TI no tiene que tener ciertos privilegios en este ataque se hicieron de el por RDP creo que esto se podria haber evitado estableciendo una ACL nada que no este en mi rango puede conectarse, politicas de firewall para el eacceso a los sitios donde descargo herramientas, basicamente dejar los sitios visitados correctamente y limitar el trafico fuea de esos o los necesarios para laborar dia a dia, politicas de ejecucion no son programas comunes los que esta ejecutando deberia bloquearlo
