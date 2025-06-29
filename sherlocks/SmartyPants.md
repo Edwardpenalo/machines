@@ -8,3 +8,5 @@ Empezamos esta maquina con la siguiente instruccion "El atacante inició sesión
 
 Recomiendo utilizar sysmon para revisar enventos, filtramos por el id de evento correspondiente a inicios de sesion por RDP y en la vista xml logramos ver la respuesta
 
+Nos preguntan "El atacante descargó algunas utilidades que le ayudaron en su operación de sabotaje y extorsión. ¿Cuál fue la primera herramienta que descargó e instaló?" revisamos logs de smartscreen para encontrar esto
+![image](https://github.com/user-attachments/assets/ccad6a59-7682-4804-b7de-682a069ea575)
