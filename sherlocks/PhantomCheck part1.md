@@ -14,3 +14,14 @@ La pregunta que se nos hace es "El atacante cargó un script de PowerShell para 
 "¿Qué clave de registro consultó el script anterior para recuperar los detalles del servicio para la detección de virtualización?"Como vemos en este log tiene la ruta de la clave de registros y al final los servicios con esto identificamos que el atacante esta obteniendo informacion sobre los servicios de virtualizacion 
 ![image](https://github.com/user-attachments/assets/deace6f2-c2f1-4e4e-b362-36a49434ae41)
 
+"El script de detección de máquinas virtuales también puede identificar VirtualBox. ¿Qué procesos compara para determinar si el sistema ejecuta VirtualBox?"Luego de leer detenidamente el escript vemos que se realiza una condicion $vb = Get-Process
+    if (($vb -eq "vboxservice.exe") -or ($vb -match "vboxtray.exe")) mediante esto podemos determinar la forma que se identifica si es una maquina virtual box
+![image](https://github.com/user-attachments/assets/364b3a1c-1430-4896-aaf7-1f7e93cab60e)
+
+"El script de detección de máquinas virtuales imprime cualquier detección con el prefijo "Esto es una". ¿Qué dos plataformas de virtualización detectó el script?" las plataformas que mas se repiten en los Logs son Hyper_v y Vmware
+![image](https://github.com/user-attachments/assets/075476db-1b73-4626-890f-9d58217a03fa)
+
+Recomendaciones
+
+Desactivar la ejecucion de powershell y scripts en los usuarios de la organizacion
+Establcer politicas de grupo y restrincion de permisos para proteger nuestras claves de registro 
