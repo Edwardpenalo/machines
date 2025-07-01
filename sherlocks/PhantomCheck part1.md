@@ -24,4 +24,7 @@ La pregunta que se nos hace es "El atacante cargó un script de PowerShell para 
 Recomendaciones
 
 Desactivar la ejecucion de powershell y scripts en los usuarios de la organizacion
+
 Establcer politicas de grupo y restrincion de permisos para proteger nuestras claves de registro 
+
+Restringir la ejecucion de escripts ya que puede ejecutarlo en otro programa de consola
