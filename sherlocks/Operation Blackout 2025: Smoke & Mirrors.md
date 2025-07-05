@@ -4,3 +4,8 @@ Byte Doctor Reyes investiga un ataque sigiloso posterior a una brecha de segurid
 
 iniciamos con la pregunta "El atacante desactivó la protección LSA en el host comprometido modificando una clave de registro. ¿Cuál es la ruta completa de esa clave de registro?" Utilizando el buscador tomamos el indicio LSA ( Local Security Authority) para buscar este indicador de compromiso
 ![image](https://github.com/user-attachments/assets/ab274f6d-0e62-450b-a668-5389fb898dbe)
+
+Utilizando la opcion de buscar "¿Qué comando de PowerShell ejecutó primero el atacante para deshabilitar Windows Defender?" encontramos el comando que desactiva la protección que analizar archivos descargados o provenientes de internet. 
+![image](https://github.com/user-attachments/assets/510a681a-d579-44dd-94a3-6a5a0f96b0f9)
+
+
