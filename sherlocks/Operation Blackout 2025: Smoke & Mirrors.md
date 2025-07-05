@@ -15,3 +15,9 @@ Utilizando la opcion de buscar "¿Qué comando de PowerShell ejecutó primero el
 
 ![image](https://github.com/user-attachments/assets/59531c3c-a27c-4460-83cf-d8d22d627d0c)
 
+"¿Qué comando de PowerShell utilizó el atacante para deshabilitar el registro del historial de comandos de PowerShell?" Utilizamos para buscar contenido relacionado con el indicador History
+
+![image](https://github.com/user-attachments/assets/501b2c16-68ec-49fc-a29a-a70853c18ab9)
+
+
+![image](https://github.com/user-attachments/assets/6eccf3d9-a6ec-4f85-99f9-bdf0384755a3)
