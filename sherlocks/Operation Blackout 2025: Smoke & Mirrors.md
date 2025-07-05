@@ -11,4 +11,6 @@ Utilizando la opcion de buscar "¿Qué comando de PowerShell ejecutó primero el
 "El atacante cargó un parche AMSI escrito en PowerShell. ¿Qué función de la DLL está siendo parcheada por el script para deshabilitar AMSI eficazmente?" estamos buscando parches a dll y encontramos un script el cual es el siguiente
 ![image](https://github.com/user-attachments/assets/97f03519-950f-460a-aa26-684212f46018)
 
+"¿Qué comando utilizó el atacante para reiniciar la máquina en modo seguro?" Utilizamos la busqueda nuevamente y filtramos por safeboot (que se refiere a inicio seguro) aqui encontraremos el comando utilizado
+![image](https://github.com/user-attachments/assets/9032b0fa-1a84-482e-9e-7e3006dcafa0)
 
