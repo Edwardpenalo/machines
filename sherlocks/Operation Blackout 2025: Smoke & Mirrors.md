@@ -12,5 +12,6 @@ Utilizando la opcion de buscar "¿Qué comando de PowerShell ejecutó primero el
 ![image](https://github.com/user-attachments/assets/97f03519-950f-460a-aa26-684212f46018)
 
 "¿Qué comando utilizó el atacante para reiniciar la máquina en modo seguro?" Utilizamos la busqueda nuevamente y filtramos por safeboot (que se refiere a inicio seguro) aqui encontraremos el comando utilizado
-![image](https://github.com/user-attachments/assets/9032b0fa-1a84-482e-9e-7e3006dcafa0)
+
+![image](https://github.com/user-attachments/assets/59531c3c-a27c-4460-83cf-d8d22d627d0c)
 
