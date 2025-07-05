@@ -19,5 +19,11 @@ Utilizando la opcion de buscar "¿Qué comando de PowerShell ejecutó primero el
 
 ![image](https://github.com/user-attachments/assets/501b2c16-68ec-49fc-a29a-a70853c18ab9)
 
-
+logramos hacer el sherlock¡
 ![image](https://github.com/user-attachments/assets/6eccf3d9-a6ec-4f85-99f9-bdf0384755a3)
+
+RECOMENDACIONES 
+Habilitar protecciones reforzadas en endpoints
+Implementacion de politicas para prohibir la ejecucion de las shells
+Protección del historial y cuidado de logs ( para evitar que se pierda informacion como cuando o que se hizo en el sistema)
+Verificar cambios sospechosos en la configuración de Defender
