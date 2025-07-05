@@ -8,6 +8,7 @@ iniciamos con la pregunta "El atacante desactivó la protección LSA en el host 
 Utilizando la opcion de buscar "¿Qué comando de PowerShell ejecutó primero el atacante para deshabilitar Windows Defender?" encontramos el comando que desactiva la protección que analizar archivos descargados o provenientes de internet. 
 ![image](https://github.com/user-attachments/assets/510a681a-d579-44dd-94a3-6a5a0f96b0f9)
 
-"El atacante cargó un parche AMSI escrito en PowerShell. ¿Qué función de la DLL está siendo parcheada por el script para deshabilitar AMSI eficazmente?" que funcion
+"El atacante cargó un parche AMSI escrito en PowerShell. ¿Qué función de la DLL está siendo parcheada por el script para deshabilitar AMSI eficazmente?" estamos buscando parches a dll y encontramos un script el cual es el siguiente
 ![image](https://github.com/user-attachments/assets/97f03519-950f-460a-aa26-684212f46018)
+
 
