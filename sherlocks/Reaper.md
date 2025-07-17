@@ -7,7 +7,7 @@ Nuestro SIEM nos alertó sobre un inicio de sesión sospechoso que requiere revi
 <img width="1785" height="711" alt="image" src="https://github.com/user-attachments/assets/70cedc5e-9f60-42d5-b251-c78c948af1df" />
 
 
-"¿Cuál es el nombre de usuario de la cuenta cuyo hash fue robado por el atacante?"
+"¿Cuál es la dirección IP de Forela-Wkstn002?" filtramos por busqueda de dominios y encontramos una solicitud a dicha ip 
 
 <img width="1684" height="343" alt="image" src="https://github.com/user-attachments/assets/10587faa-c899-4824-bc88-35f878422b2a" />
 
