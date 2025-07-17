@@ -3,3 +3,7 @@ Buenasss
 
 Nuestro SIEM nos alertó sobre un inicio de sesión sospechoso que requiere revisión inmediata. La alerta indicaba que la dirección IP y el nombre de la estación de trabajo de origen no coincidían. Se le proporcionó una captura de red y registros de eventos del período cercano al incidente. Corresponda la evidencia obtenida e informe a su responsable del SOC.
 
+"¿Cuál es la dirección IP de Forela-Wkstn001?" Inciamos con esta pregunta podemos encontrar esta ip ya que en la info  con el protocolo LLMNR (Link-Local Multicast Name Resolution)logramos encontrar el usuario que estamos buscando
+<img width="1785" height="711" alt="image" src="https://github.com/user-attachments/assets/70cedc5e-9f60-42d5-b251-c78c948af1df" />
+
+
