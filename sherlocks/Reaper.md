@@ -11,7 +11,7 @@ Nuestro SIEM nos alertó sobre un inicio de sesión sospechoso que requiere revi
 
 <img width="1684" height="343" alt="image" src="https://github.com/user-attachments/assets/10587faa-c899-4824-bc88-35f878422b2a" />
 
-"¿Cuál es el nombre de usuario de la cuenta cuyo hash fue robado por el atacante?" "¿Cuál es la dirección IP del dispositivo desconocido utilizado por el atacante para interceptar las credenciales?"  Son preguntas diferentes pero correlacionamos y nos damos cuenta que tenemos ambas en este log, el usuario y la ip del dispositivo
+"¿Cuál es el nombre de usuario de la cuenta cuyo hash fue robado por el atacante?" "¿Cuál es la dirección IP del dispositivo desconocido utilizado por el atacante para interceptar las credenciales?"  Son preguntas diferentes pero correlacionamos y nos damos cuenta que tenemos ambas en este log, el usuario,ip , puerto, id de sesion y archivo compartido
 
 <img width="1546" height="987" alt="image" src="https://github.com/user-attachments/assets/20d53a99-02d6-46a9-b88d-c7447abcaad2" />
 
