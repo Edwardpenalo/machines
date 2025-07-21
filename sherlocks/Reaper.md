@@ -27,14 +27,15 @@ Con esto logramos  completar la maquina
 
 RECOMENDACIONES 
 
-Establecer lista de control de acceso
+Implementar listas de control de acceso (ACL) restringidas por usuario y grupo en recursos compartidos.
 
-Bloquear accesos a recursos y establecer usuarios quienes pueden y quines no acceder y compartir dichos archivos
+Deshabilitar protocolos inseguros como LLMNR y NBNS para reducir vectores de ataque por relay.
 
-Bloquear puertos inutilizados
+Monitorear intentos de autenticación fallida o inusual mediante alertas correlacionadas en el SIEM.
 
-Capacitación del personal
-
+Capacitar al personal sobre ingeniería social, relay y reconocimiento de accesos sospechosos.
+ 
+Bloquear puertos no utilizados a nivel de firewall interno.
 
 
 
