@@ -15,5 +15,6 @@ Nuestro SIEM nos alertó sobre un inicio de sesión sospechoso que requiere revi
 
 <img width="1546" height="987" alt="image" src="https://github.com/user-attachments/assets/20d53a99-02d6-46a9-b88d-c7447abcaad2" />
 
+<img width="1348" height="968" alt="image" src="https://github.com/user-attachments/assets/79dadd73-1cc1-49cf-abde-89785e44373f" />
 
 
