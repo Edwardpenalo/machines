@@ -22,7 +22,7 @@ Nuestro SIEM nos alertó sobre un inicio de sesión sospechoso que requiere revi
 
 <img width="1236" height="479" alt="image" src="https://github.com/user-attachments/assets/771839c0-cadd-46fa-a631-cb59b8d1456b" />
 
-Luego logramos  completar la maquina 
+Con esto logramos  completar la maquina 
 <img width="877" height="760" alt="image" src="https://github.com/user-attachments/assets/e2860cc0-aab2-4ca5-9ff4-d6aa1309813e" />
 
 RECOMENDACIONES 
