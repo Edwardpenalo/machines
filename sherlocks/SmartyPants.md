@@ -42,7 +42,7 @@ En la vista XML encontraremos la hora de ejecucion de esta herramienta
 
 RECOMENDACIONES 
 
-Dado que se trata de un puesto directivo, es evidente que el usuario accede a información sensible. Por ello, recomendamos las siguientes acciones:
+Dado que se trata de un puesto directivo, es evidente que el usuario accede a información sensible. Por lo tanto, recomeiendo las siguientes medidas:
 
 Cifrado de documentos confidenciales. Archivos sensibles deberían estar protegidos con contraseña o mecanismos de cifrado.
 
