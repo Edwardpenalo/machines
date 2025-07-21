@@ -27,6 +27,13 @@ Con esto logramos  completar la maquina
 
 RECOMENDACIONES 
 
+Establecer lista de control de acceso
+
+Bloquear accesos a recursos y establecer usuarios quienes pueden y quines no acceder y compartir dichos archivos
+
+Bloquear puertos inutilizados
+
+Capacitación del personal
 
 
 
