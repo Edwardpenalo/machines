@@ -9,3 +9,5 @@ Buenass
 
 
 <img width="1458" height="982" alt="image" src="https://github.com/user-attachments/assets/3db4c79b-e2f5-4ab9-ae1b-a083e17ff249" />
+
+<img width="1101" height="648" alt="image" src="https://github.com/user-attachments/assets/d97c94cd-0755-4e4b-b906-810a2302b080" />
