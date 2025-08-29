@@ -9,3 +9,12 @@
 <img width="1645" height="601" alt="Screenshot from 2025-08-29 14-56-11" src="https://github.com/user-attachments/assets/01a972f9-33a5-47a4-9f04-8bf922e0e790" />
 
 
+<img width="1224" height="902" alt="Screenshot from 2025-08-29 14-59-14" src="https://github.com/user-attachments/assets/b97cf346-2b86-4d1a-804e-8f7a2da966a6" />
+
+
+<img width="1769" height="959" alt="Screenshot from 2025-08-29 15-01-06" src="https://github.com/user-attachments/assets/c7b9d4fd-65cf-4061-a9c1-4551b3588176" />
+
+
+<img width="1769" height="959" alt="Screenshot from 2025-08-29 15-03-20" src="https://github.com/user-attachments/assets/f244d143-4bfe-4421-8982-f58a6f13a7a1" />
+
+
