@@ -13,6 +13,8 @@
 
 
 <img width="1769" height="959" alt="Screenshot from 2025-08-29 15-01-06" src="https://github.com/user-attachments/assets/c7b9d4fd-65cf-4061-a9c1-4551b3588176" />
+<img width="864" height="439" alt="image" src="https://github.com/user-attachments/assets/98c585f5-6f9a-4787-8496-00da8d488187" />
+
 
 
 <img width="1769" height="959" alt="Screenshot from 2025-08-29 15-03-20" src="https://github.com/user-attachments/assets/f244d143-4bfe-4421-8982-f58a6f13a7a1" />
