@@ -45,9 +45,21 @@ Logramos completar esta maquina!!!!!
 
 RECOMENDACIONES
 
+En el caso analizado con Sherlock, se evidenció el uso de una herramienta que, aunque parece legítima, fue utilizada para instalar paquetes MSI de forma maliciosa. Esto demuestra la importancia de restringir la ejecución de aplicaciones específicas por parte de los usuarios, especialmente aquellas que permiten instalaciones silenciosas o sin intervención administrativa.
 
-Establecer politicas de usuario, en este sherlock vimos que utilizaron un programa el cual puede parecer legitimo para instalar paquetes de MSI, considero bloquear ciertas aplicaciones para los usuarios y bloquear conexiones que no esten dentro de nuestro rango
+Recomiendo implementar políticas que:
 
+Limiten la ejecución de aplicaciones MSI y ejecutables que no estén explícitamente aprobadas por el área de TI o el correspondiente.
+
+Establezcan listas blancas (whitelisting) para aplicaciones permitidas, especialmente si los usuarios tienen privilegios elevados, un adminsitrativo o alguien con cierto privilegio suelen ser objetivo de ataque.
+
+Bloqueen conexiones de red salientes que no estén dentro del rango de direcciones IP autorizado por la organización, para evitar comunicaciones con servidores maliciosos o no verificados.
+
+Monitoreen el uso de herramientas administrativas y sistemas de instalación en endpoints mediante soluciones EDR.
+
+Implementen segmentación de red para evitar el movimiento lateral en caso de compromiso.
+
+Evalúen el uso de controladores y software de terceros asegurando que provengan de fuentes confiables y estén firmados digitalmente.
 
 
 
