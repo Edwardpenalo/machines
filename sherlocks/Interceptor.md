@@ -1,4 +1,4 @@
-Buenasss estaremos realizando esta maquina la cual en hack the box esta en la clasificacion de soc
+Buenasss estaremos realizando el análisis de esta máquina, la cual, en Hack The Box, se encuentra clasificada bajo la categoría SOC (.
 <img width="1499" height="465" alt="Screenshot from 2025-08-29 14-54-55" src="https://github.com/user-attachments/assets/df9e9675-6378-40b1-b33f-68686b7e9b56" />
 
 "¿De qué dirección IP provino el tráfico sospechoso original?" filtramos por http y vemos un metodo "propfind" el cual esta compartiendo o reenviando un archivo 
