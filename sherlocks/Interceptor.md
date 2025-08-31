@@ -51,9 +51,9 @@ Recomiendo implementar políticas que:
 
 Limiten la ejecución de aplicaciones MSI y ejecutables que no estén explícitamente aprobadas por el área de TI o el correspondiente.
 
-Establezcan listas blancas (whitelisting) para aplicaciones permitidas, especialmente si los usuarios tienen privilegios elevados, un adminsitrativo o alguien con cierto privilegio suelen ser objetivo de ataque.
+Establezcan listas blancas  para aplicaciones permitidas, especialmente si los usuarios tienen privilegios elevados, un adminsitrativo o alguien con cierto privilegio suelen ser objetivo de ataque.
 
-Bloqueen conexiones de red salientes que no estén dentro del rango de direcciones IP autorizado por la organización, para evitar comunicaciones con servidores maliciosos o no verificados.
+Bloqueen conexiones de red salientes que no estén dentro del rango de direcciones IP autorizado por la empresa, para evitar comunicaciones con servidores maliciosos o no verificados.
 
 Monitoreen el uso de herramientas administrativas y sistemas de instalación en endpoints mediante soluciones EDR.
 
