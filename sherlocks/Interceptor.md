@@ -30,13 +30,24 @@ En la informacion de la comunidad encontramos el comando que se envia al servido
 Aqui podemos encontrar la informacion del host y la key utilizada en este ataque
 <img width="1167" height="915" alt="image" src="https://github.com/user-attachments/assets/9b230eef-e71d-44bf-9371-4bc409cd1147" />
 
-Podemos ver que hay un nombre de usuario donde vemos que realiza una descarga y su "ID=Nevada" la cual es el usuario, tambien la key del mismo
+Podemos ver que hay un nombre de usuario donde vemos que realiza una solicitud y este es "ID=Nevada" 
 <img width="1118" height="390" alt="image" src="https://github.com/user-attachments/assets/e3eeb2a3-1c71-450c-9f7f-8aed17947e8c" />
 
+Aqui encontraremos la key utilizada en este malware
 <img width="1025" height="615" alt="image" src="https://github.com/user-attachments/assets/6a5fef3a-9e6c-4045-94b0-015851d7cd32" />
 
+Logramos completar esta maquina!!!!!
 
 
 <img width="692" height="626" alt="image" src="https://github.com/user-attachments/assets/e0715d07-d507-4adb-9407-12716063405f" />
+
+
+
+RECOMENDACIONES
+
+
+Establecer politicas de usuario, en este sherlock vimos que utilizaron un programa el cual puede parecer legitimo para instalar paquetes de MSI, considero bloquear ciertas aplicaciones para los usuarios y bloquear conexiones que no esten dentro de nuestro rango
+
+
 
 
