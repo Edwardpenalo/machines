@@ -1,13 +1,12 @@
 Buenasss estaremos realizando esta maquina la cual en hack the box esta en la clasificacion de soc
 <img width="1499" height="465" alt="Screenshot from 2025-08-29 14-54-55" src="https://github.com/user-attachments/assets/df9e9675-6378-40b1-b33f-68686b7e9b56" />
 
-"¿De qué dirección IP provino el tráfico sospechoso original?" dando una vista rapida podemos ver que hay un metodo http "propfind" el cual esta compartiendo o reenviando un archivo 
+"¿De qué dirección IP provino el tráfico sospechoso original?" filtramos por http y vemos un metodo "propfind" el cual esta compartiendo o reenviando un archivo 
 
 <img width="1404" height="1080" alt="Screenshot from 2025-08-29 13-56-31" src="https://github.com/user-attachments/assets/33e6ad7e-631d-47bc-b380-3d40019de1c0" />
 
 
-
-<img width="1645" height="601" alt="Screenshot from 2025-08-29 14-56-11" src="https://github.com/user-attachments/assets/01a972f9-33a5-47a4-9f04-8bf922e0e790" />
+Exportamos dicho archivo,y utilizamos virus total para encontrar informacion de dicho malware
 
 
 <img width="1224" height="902" alt="Screenshot from 2025-08-29 14-59-14" src="https://github.com/user-attachments/assets/b97cf346-2b86-4d1a-804e-8f7a2da966a6" />
