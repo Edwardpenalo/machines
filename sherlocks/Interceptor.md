@@ -1,4 +1,4 @@
-<img width="1190" height="923" alt="image" src="https://github.com/user-attachments/assets/438ed44c-a6af-4af3-bed4-a92b4cbb5df6" />Buenasss estaremos realizando esta maquina la cual en hack the box esta en la clasificacion de soc
+Buenasss estaremos realizando esta maquina la cual en hack the box esta en la clasificacion de soc
 <img width="1499" height="465" alt="Screenshot from 2025-08-29 14-54-55" src="https://github.com/user-attachments/assets/df9e9675-6378-40b1-b33f-68686b7e9b56" />
 
 "¿De qué dirección IP provino el tráfico sospechoso original?" filtramos por http y vemos un metodo "propfind" el cual esta compartiendo o reenviando un archivo 
@@ -17,7 +17,7 @@ Informacion de este malware como los hashes,tipos de archivo,tamaño,etc...
 El programa que se utiliza para ejecutar este es "msiexec.exe" un programa para instalar programas de MSI 
 <img width="864" height="439" alt="image" src="https://github.com/user-attachments/assets/98c585f5-6f9a-4787-8496-00da8d488187" />
 
-
+<img width="1190" height="923" alt="image" src="https://github.com/user-attachments/assets/438ed44c-a6af-4af3-bed4-a92b4cbb5df6" />
 
 <img width="1769" height="959" alt="Screenshot from 2025-08-29 15-03-20" src="https://github.com/user-attachments/assets/f244d143-4bfe-4421-8982-f58a6f13a7a1" />
 
