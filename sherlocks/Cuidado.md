@@ -15,5 +15,10 @@ Buenass
 
 <img width="1848" height="933" alt="image" src="https://github.com/user-attachments/assets/3c1c0492-85f0-4a7b-8426-63d4363b8575" />
 
+<img width="1364" height="515" alt="image" src="https://github.com/user-attachments/assets/579115ab-126b-48f3-aa86-aa05d6cec1db" />
+<img width="1670" height="901" alt="image" src="https://github.com/user-attachments/assets/bcf6af3a-e871-455e-a70b-6e0dce4beb21" />
+
 
 <img width="965" height="782" alt="image" src="https://github.com/user-attachments/assets/f10323f4-8ebe-439f-b812-ade52b95dfef" />
+
+
