@@ -14,3 +14,6 @@ Buenass
 
 
 <img width="1848" height="933" alt="image" src="https://github.com/user-attachments/assets/3c1c0492-85f0-4a7b-8426-63d4363b8575" />
+
+
+<img width="965" height="782" alt="image" src="https://github.com/user-attachments/assets/f10323f4-8ebe-439f-b812-ade52b95dfef" />
