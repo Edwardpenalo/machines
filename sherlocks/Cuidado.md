@@ -20,5 +20,8 @@ Buenass
 
 
 <img width="965" height="782" alt="image" src="https://github.com/user-attachments/assets/f10323f4-8ebe-439f-b812-ade52b95dfef" />
+<img width="790" height="239" alt="image" src="https://github.com/user-attachments/assets/2138a0d2-8e99-4f8b-b934-bfdac32e9b9d" />
+<img width="794" height="273" alt="image" src="https://github.com/user-attachments/assets/a2434a6c-f045-45d1-acc3-b5289a82f57b" />
 
 
+<img width="807" height="743" alt="image" src="https://github.com/user-attachments/assets/50955197-6639-4375-a67e-d73cb6d9c5c2" />
