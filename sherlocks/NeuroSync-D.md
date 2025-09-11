@@ -1,4 +1,10 @@
+BUENAS
+Aqui realizando el sherlock Neurosync el cual se encuentra en la categoria DFIR de hack the box nivel easy
+
+
 <img width="1431" height="524" alt="image" src="https://github.com/user-attachments/assets/daa9f7f6-03f8-4e41-9515-24d8e86c325a" />
+
+Aqui podemos encontrar la version de Nextjs y el puerto local el cual corre la misma
 
 <img width="1386" height="420" alt="image" src="https://github.com/user-attachments/assets/5ace3f3a-ee76-4a15-b017-e65320ed1a62" />
 
