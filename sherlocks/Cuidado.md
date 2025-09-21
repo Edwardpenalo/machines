@@ -16,16 +16,23 @@ El puerto utilizado por el servidor del atacante el cual es 80, el tamaño del s
 el comando completo que utilizó el atacante para deshabilitar cualquier servicio de minería existente
 
 <img width="1848" height="933" alt="image" src="https://github.com/user-attachments/assets/3c1c0492-85f0-4a7b-8426-63d4363b8575" />
-el atacante utilizó un empaquetador para comprimir el malware
+el atacante utilizó un empaquetador para comprimir el malware y en virus total encontramos la informacion de este
 
 <img width="1364" height="515" alt="image" src="https://github.com/user-attachments/assets/579115ab-126b-48f3-aa86-aa05d6cec1db" />
 
+La version de este empaquetador
 <img width="1670" height="901" alt="image" src="https://github.com/user-attachments/assets/bcf6af3a-e871-455e-a70b-6e0dce4beb21" />
 
+El nombre del malware descomprimido
 
 <img width="965" height="782" alt="image" src="https://github.com/user-attachments/assets/f10323f4-8ebe-439f-b812-ade52b95dfef" />
+
+El valor de antropia de este y usaremos  UPX 
 <img width="790" height="239" alt="image" src="https://github.com/user-attachments/assets/2138a0d2-8e99-4f8b-b934-bfdac32e9b9d" />
+
+luego de descomprimir este archivo logramos ver dicho valor de antropia
 <img width="794" height="273" alt="image" src="https://github.com/user-attachments/assets/a2434a6c-f045-45d1-acc3-b5289a82f57b" />
 
+Logramos descomprimir este archivo
 
 <img width="807" height="743" alt="image" src="https://github.com/user-attachments/assets/50955197-6639-4375-a67e-d73cb6d9c5c2" />
