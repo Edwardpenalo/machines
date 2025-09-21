@@ -45,7 +45,10 @@ Logramos completar este sherlock
 
 
 
-El Sherlock NeuroSync-D permitió entender la forma en la que un atacante puede aprovechar configuraciones inseguras y vulnerabilidades conocidas en aplicaciones modernas como Next.js. La explotación de CVE-2025-29927, sumada a la exposición indebida de endpoints, condujo a un RCE vía Redis, mostrando la importancia de:
+El Sherlock NeuroSync-D permitió entender la forma en la que un atacante puede aprovechar configuraciones inseguras y vulnerabilidades conocidas en aplicaciones modernas como Next.js. La explotación de CVE-2025-29927, sumada a la exposición indebida de endpoints, condujo a un RCE vía Redis.
+
+
+Recomendaciones
 
 Mantener frameworks actualizados.
 
