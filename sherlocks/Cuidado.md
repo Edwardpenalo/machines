@@ -13,9 +13,13 @@ El puerto utilizado por el servidor del atacante el cual es 80, el tamaño del s
 <img width="1101" height="648" alt="image" src="https://github.com/user-attachments/assets/d97c94cd-0755-4e4b-b906-810a2302b080" />
 
 
+el comando completo que utilizó el atacante para deshabilitar cualquier servicio de minería existente
+
 <img width="1848" height="933" alt="image" src="https://github.com/user-attachments/assets/3c1c0492-85f0-4a7b-8426-63d4363b8575" />
+el atacante utilizó un empaquetador para comprimir el malware
 
 <img width="1364" height="515" alt="image" src="https://github.com/user-attachments/assets/579115ab-126b-48f3-aa86-aa05d6cec1db" />
+
 <img width="1670" height="901" alt="image" src="https://github.com/user-attachments/assets/bcf6af3a-e871-455e-a70b-6e0dce4beb21" />
 
 
