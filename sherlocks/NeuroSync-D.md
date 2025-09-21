@@ -41,3 +41,14 @@ Luego de decodificar el comando utilizado es este
 
 Logramos completar este sherlock
 <img width="704" height="716" alt="image" src="https://github.com/user-attachments/assets/b0821c4e-2972-42a2-a93c-5989af1e720e" />
+
+
+El Sherlock NeuroSync-D permitió entender la forma en la que un atacante puede aprovechar configuraciones inseguras y vulnerabilidades conocidas en aplicaciones modernas como Next.js. La explotación de CVE-2025-29927, sumada a la exposición indebida de endpoints, condujo a un RCE vía Redis, mostrando la importancia de:
+
+Mantener frameworks actualizados.
+
+Restringir el acceso a archivos de cliente y rutas internas.
+
+Implementar monitoreo y rate limiting en APIs.
+
+Revisar periódicamente logs para detectar comportamientos anómalos.
