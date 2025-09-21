@@ -37,7 +37,7 @@ Logramos descomprimir este archivo
 
 <img width="807" height="743" alt="image" src="https://github.com/user-attachments/assets/50955197-6639-4375-a67e-d73cb6d9c5c2" />
 
-ecomendaciones finales
+Recomendaciones finales
 
 
 Fortalecer el monitoreo de red: implementar reglas en IDS/IPS para detectar descargas sospechosas desde direcciones externas.
