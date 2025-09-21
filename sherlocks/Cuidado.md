@@ -36,3 +36,20 @@ luego de descomprimir este archivo logramos ver dicho valor de antropia
 Logramos descomprimir este archivo
 
 <img width="807" height="743" alt="image" src="https://github.com/user-attachments/assets/50955197-6639-4375-a67e-d73cb6d9c5c2" />
+
+ecomendaciones finales
+
+
+Fortalecer el monitoreo de red: implementar reglas en IDS/IPS para detectar descargas sospechosas desde direcciones externas.
+
+Bloqueo de IoCs: agregar la IP maliciosa 94.156.177.109 a listas negras locales y en el firewall perimetral.
+
+Análisis preventivo de binarios: usar herramientas como UPX y binwalk para inspeccionar ejecutables comprimidos.
+
+Mejorar la higiene del sistema: aplicar hardening básico (SSH seguro, deshabilitar servicios no necesarios, aplicar parches).
+
+Respuesta a incidentes: establecer un playbook para cryptojacking, incluyendo aislamiento inmediato de hosts sospechosos.
+
+Educación del personal SOC: entrenar a los analistas para reconocer patrones típicos de cryptomineros en logs (descargas vía HTTP, ejecución de uname, limpieza de procesos rivales).
+
+Implementar EDR ligero: soluciones de monitoreo en endpoints para detectar procesos anómalos con alto consumo de CPU.
