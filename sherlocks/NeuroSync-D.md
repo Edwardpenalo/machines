@@ -8,6 +8,8 @@ Aqui podemos encontrar la version de Nextjs y el puerto local el cual corre la m
 
 <img width="1386" height="420" alt="image" src="https://github.com/user-attachments/assets/5ace3f3a-ee76-4a15-b017-e65320ed1a62" />
 
+Aqui tenemos la vulnerabilidad CVE-2025-29927 esta se aprovecha de Se debe a una confianza inadecuada en el encabezado aqui el recurso "https://www.offsec.com/blog/cve-2025-29927/" 
+
 <img width="1225" height="783" alt="image" src="https://github.com/user-attachments/assets/9a8ea57d-a647-448e-8b0d-e7d13b984cf5" />
 
 <img width="1679" height="710" alt="image" src="https://github.com/user-attachments/assets/d0696e0c-a5a4-4d65-8849-f74fbf472aa5" />
