@@ -9,37 +9,5 @@
 
 <img width="977" height="875" alt="image" src="https://github.com/user-attachments/assets/acb5aec7-72c0-4369-ba23-4d553627db5e" />
 
-function verifyInviteCode(code)
-	{
-	var formData=
-		{
-		"code":code
-	};
-	$.ajax(
-		{
-		type:"POST",dataType:"json",data:formData,url:'/api/v1/invite/verify',success:function(response)
-			{
-			console.log(response)
-		}
-		,error:function(response)
-			{
-			console.log(response)
-		}
-	}
-	)
-}
-function makeInviteCode()
-	{
-	$.ajax(
-		{
-		type:"POST",dataType:"json",url:'/api/v1/invite/how/to/generate',success:function(response)
-			{
-			console.log(response)
-		}
-		,error:function(response)
-			{
-			console.log(response)
-		}
-	}
-	)
-}
+<img width="1651" height="180" alt="image" src="https://github.com/user-attachments/assets/658cda4e-a6fe-4528-bcd1-1185bd23758b" />
+
