@@ -1,4 +1,4 @@
-#Hack The Box — Write-ups & DFIR / SOC Cyber Range
+# Hack The Box — Write-ups & DFIR / SOC Cyber Range
 Repositorio personal destinado a la documentación técnica, análisis de evidencias y write-ups de resoluciones en Hack The Box (Máquinas y laboratorios Sherlocks).
 
 <img width="820" height="447" alt="image" src="https://github.com/user-attachments/assets/d8c2f2fb-2871-4dc2-b515-9267abc340f9" />
